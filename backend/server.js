@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
   res.send("Expense Tracker Backend Running");
 });
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 async function startServer() {
   const db = await initializeDB();
