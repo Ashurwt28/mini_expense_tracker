@@ -4,8 +4,8 @@ A simple expense tracker web app using React, Vite, Express, and SQLite. Users c
 
 ## Live Demo Links
 
-- Frontend: _Not deployed yet_
-- Backend: _Not deployed yet_
+https://mini-expense-tracker-frontend-qkusuxfye-ayush-rawat-s-projects.vercel.app/
+
 
 > Once deployed, replace these placeholders with the actual hosted URLs.
 
